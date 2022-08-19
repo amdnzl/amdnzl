@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amdnzl
+- 👋 Hi, I’m Ahmad
 - 👀 I’m interested in making healthcare better
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on radiology, science, medicine projects
